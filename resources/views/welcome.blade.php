@@ -15,7 +15,7 @@
     <body>
             <div style="text-align: center;">
                     <img src="/images/botaniquelogo.jpg" style="width: 50%;">
-                    <h1 style="font-family: sans-serif;">Coming Soon</h1>
+                    <h1 style="font-family: sans-serif;">NEW Coming Soon</h1>
                     <h1 style="font-family: sans-serif;">Call 7905838 For more information</h1>
                     <h1 style="font-family: sans-serif;">Hithadhoo, Addu City, Maldives</h1>
                     
